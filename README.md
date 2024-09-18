@@ -1,8 +1,8 @@
 👋 Hi, I’m @wRabit
 
-👀 Interests: I'm passionate about cybersecurity, with a focus on threat detection, threat hunting, and system monitoring. I have experience with Python, Bash, PowerShell, JavaScript, HTML, CSS, and basic PHP.
+👀 Interests: I'm passionate about cybersecurity, with a focus on threat detection, threat hunting, and system monitoring. I have experience with Python, Bash, PowerShell, JavaScript, HTML, CSS, MySQL and basic PHP.
 
-🌱 Currently Exploring: I’m diving into the field of Security Analysis and expanding my skills in threat hunting using tools like Sysmon, as well as exploring different cybersecurity frameworks. I’m also interested in building tools for audit and compliance (e.g., ISO 27001).
+🌱 Currently Exploring: : I’m a cybersecurity enthusiast diving deeper into Blue Team activities. I’m expanding my skills in analysis, threat hunting, threat detection, and audit and compliance. While tools like Sysmon provide valuable logs for analysts, my focus is on building tools and scripts to improve SIEM operations (e.g., Splunk). I’m particularly passionate about developing open-source solutions for smaller companies that might lack the budget for enterprise SIEM solutions or SOC teams, to help them to improve their security posture.
 
 💼 Skills:
 
