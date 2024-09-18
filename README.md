@@ -9,6 +9,7 @@ Aside from that, I’ve got an interest in the more technical side too – like 
 💼 My Skills:
 
 Languages: Python, Bash, PowerShell, JavaScript, HTML, CSS, basic PHP
+
 What I Focus On: Threat detection and hunting, cybersecurity frameworks (like MITRE ATT&CK, NIST, and CIS), system monitoring, log analysis, and automation. I’m also keen on developing audit & compliance tools (like ISO 27001).
 💞️ What I’m looking to collaborate on:
 If you’re working on projects that involve threat detection, log analysis, security automation, or building tools for compliance, I’d love to connect. I’m also always open to contributing to open-source security projects.
