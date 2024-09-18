@@ -17,5 +17,6 @@ If you’re working on projects that involve threat detection, log analysis, sec
 
 Connect with me on <a href="https://www.linkedin.com/in/szymon-adwent-a75360193/">LinkedIn</a>
 Or just drop me a message here on GitHub!
+
 ⚡ Fun Fact:
 In my downtime, I love working on digital forensics and tackling ethical hacking challenges. It’s a great way to stay sharp and keep learning in the ever-evolving world of cybersecurity.
